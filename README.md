@@ -16,8 +16,8 @@ The Awesome Chocolates Sales Report is a Power BI dashboard designed to provide 
 
 * Power BI Customization: Optimized with filters, slicers, and a professional UI design with a clean, intuitive layout.
 
-## Dashboard Preview
-![(https://github.com/Anurag-kumar-Molankala/Awesome-Chocolates-Sales-Report/blob/main/Awesome%20Chocolates%20Project-05/Awesome%20Chocolates.png)
+Dashboard Preview
+![Dashboard Preview](https://github.com/Anurag-kumar-Molankala/Awesome-Chocolates-Sales-Report/blob/main/Awesome%20Chocolates%20Project-05/Awesome%20Chocolates.png)
 ## Technologies Used:
 
 * Power BI (Data modeling, DAX calculations, and visual storytelling)
