@@ -10,15 +10,15 @@ The Awesome Chocolates Sales Report is a Power BI dashboard designed to provide 
 
 * Salesperson Performance Analysis: Highlights top-performing sales representatives.
 
-* Sales Trends: Interactive line chart showing sales movement over time.
+* Sales Trends: An Interactive line chart showing sales movement over time.
 
 * Geographical Insights: Bar chart representation of sales by country.
 
 * Power BI Customization: Optimized with filters, slicers, and a professional UI design with a clean, intuitive layout.
 
 ## Dashboard Preview
-
-Technologies Used:
+![(https://github.com/Anurag-kumar-Molankala/Awesome-Chocolates-Sales-Report/blob/main/Awesome%20Chocolates%20Project-05/Awesome%20Chocolates.png)
+## Technologies Used:
 
 * Power BI (Data modeling, DAX calculations, and visual storytelling)
 
